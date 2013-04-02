@@ -10,5 +10,6 @@ public class App
     {
         System.out.println("Hello heni ini project maven pertamamu");
         System.out.println( "Hello World!" );
+        System.out.println("Heni keren");
     }
 }
